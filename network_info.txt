@@ -7,6 +7,3 @@ Course: Network Programming
 
 This is a custom text file created to test
 reading data from a URL using Java.
-
-The program retrieves this information
-from a remote server and saves it locally.
